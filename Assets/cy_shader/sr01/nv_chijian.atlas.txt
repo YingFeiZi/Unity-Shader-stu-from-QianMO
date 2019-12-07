@@ -1,0 +1,167 @@
+
+nv_chijian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fashi
+  rotate: false
+  xy: 151, 17
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+houbuqunz
+  rotate: false
+  xy: 693, 733
+  size: 226, 287
+  orig: 226, 287
+  offset: 0, 0
+  index: -1
+houbuweibo
+  rotate: true
+  xy: 659, 525
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 2, 580
+  size: 546, 440
+  orig: 546, 440
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 533, 362
+  size: 88, 108
+  orig: 88, 108
+  offset: 0, 0
+  index: -1
+liuhai-y
+  rotate: false
+  xy: 997, 798
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+liuhai-z
+  rotate: false
+  xy: 1000, 880
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+liuhan
+  rotate: false
+  xy: 946, 776
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+mawei
+  rotate: true
+  xy: 693, 585
+  size: 146, 168
+  orig: 146, 168
+  offset: 0, 0
+  index: -1
+qianbuqunzi
+  rotate: true
+  xy: 229, 2
+  size: 226, 271
+  orig: 226, 271
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 441, 232
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+shangbi-y
+  rotate: true
+  xy: 2, 2
+  size: 44, 147
+  orig: 49, 147
+  offset: 1, 0
+  index: -1
+shangbi-z
+  rotate: true
+  xy: 533, 452
+  size: 126, 124
+  orig: 126, 124
+  offset: 0, 0
+  index: -1
+shengzi_1
+  rotate: false
+  xy: 441, 250
+  size: 80, 153
+  orig: 107, 156
+  offset: 0, 3
+  index: -1
+shengzi_2
+  rotate: false
+  xy: 921, 768
+  size: 23, 252
+  orig: 49, 252
+  offset: 7, 0
+  index: -1
+shenti_1
+  rotate: false
+  xy: 229, 230
+  size: 210, 348
+  orig: 211, 348
+  offset: 1, 0
+  index: -1
+shouzhi-y
+  rotate: false
+  xy: 523, 323
+  size: 39, 37
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+shouzi-z
+  rotate: true
+  xy: 946, 936
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+tui-y
+  rotate: false
+  xy: 550, 581
+  size: 141, 439
+  orig: 141, 439
+  offset: 0, 0
+  index: -1
+tui-z
+  rotate: false
+  xy: 2, 48
+  size: 225, 530
+  orig: 225, 530
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: true
+  xy: 946, 843
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+xiabi-y
+  rotate: false
+  xy: 863, 597
+  size: 107, 134
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+xiabi-z
+  rotate: false
+  xy: 441, 405
+  size: 90, 173
+  orig: 90, 176
+  offset: 0, 0
+  index: -1
