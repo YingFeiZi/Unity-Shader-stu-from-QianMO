@@ -4,7 +4,7 @@ using System.Collections;
 using System.IO;
 using System.Text;
 using System.Collections.Generic;
-using ExtendEditor;
+//using ExtendEditor;
 using System;
 
 public class CYtoolsobject : MonoBehaviour
@@ -969,6 +969,7 @@ public class CYtoolsobject : MonoBehaviour
 
         return screenShot;
     }
+    
 }
 
 public class UIPrefabLayer : AssetPostprocessor
@@ -979,17 +980,17 @@ public class UIPrefabLayer : AssetPostprocessor
         if (assetPath.Contains("UIAsset/"))
         {
             //由于UI的存放没有规则,需要找到该图片所使用的UIAtlas
-            List<string> list = new List<string>();
-            FileUtility.GetDeepAssetPaths(Application.dataPath + "/UIAsset/chart/", list, ".prefab");
-            FileUtility.GetDeepAssetPaths(Application.dataPath + "/UIAsset/Font/", list, ".prefab");
-            FileUtility.GetDeepAssetPaths(Application.dataPath + "/UIAsset/Prefabs/", list, ".prefab");
-            for (int i = 0; i < list.Count; i++)
-            {
-                if (i < list.Count && list[i] != null)
-                {
-                    Debug.LogError(list[i]);
-                }
-            }
+            // List<string> list = new List<string>();
+            // FileUtility.GetDeepAssetPaths(Application.dataPath + "/UIAsset/chart/", list, ".prefab");
+            // FileUtility.GetDeepAssetPaths(Application.dataPath + "/UIAsset/Font/", list, ".prefab");
+            // FileUtility.GetDeepAssetPaths(Application.dataPath + "/UIAsset/Prefabs/", list, ".prefab");
+            // for (int i = 0; i < list.Count; i++)
+            // {
+            //     if (i < list.Count && list[i] != null)
+            //     {
+            //         Debug.LogError(list[i]);
+            //     }
+            // }
 
         }
 
